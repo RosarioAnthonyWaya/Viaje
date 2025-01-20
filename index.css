@@ -38,6 +38,8 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
      line-height: 110%;
      font-weight: 700;
      letter-spacing: -2px;
+ font-family: 'GT Super', serif;
+  font-weight: 700; /* Bold */
    }
    
    h2 {
