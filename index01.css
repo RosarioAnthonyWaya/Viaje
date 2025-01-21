@@ -4895,3 +4895,7 @@ html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:1
     visibility: hidden !important;
 }
    
+html, body {
+    overflow-x: hidden; /* Disable horizontal overflow */
+    width: 100%; /* Ensure the width doesn't exceed the viewport */
+}
